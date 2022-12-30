@@ -3,4 +3,5 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Disk Sanitization Powershell Script](https://github.com/EHACK30/DiskSanitationPowershell) 
+- [Azure Sentinel Honeypot](https://github.com/EHACK30/AzureSentinelHoneypot) 
 
