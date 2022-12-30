@@ -2,5 +2,5 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Disk Sanitation Powershell Script](https://github.com/EHACK30/DiskSanitationPowershell) 
+- [Disk Sanitization Powershell Script](https://github.com/EHACK30/DiskSanitationPowershell) 
 
