@@ -2,6 +2,6 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Disk Sanitization Powershell Script](https://github.com/EHACK30/DiskSanitationPowershell) 
+- [Network Tracking - Python Script](https://github.com/EHACK30/NetworkTracking)
 - [Azure Sentinel Honeypot](https://github.com/EHACK30/AzureSentinelHoneypot) 
 
